@@ -2,9 +2,9 @@
 
 def solve():
 # Ниже пишите решение задачи
-    a = input()
+    ac = input()
 
-    b = a.split()
+    b = ac.split()
 
     for symbol in b:
         c = ord(symbol)
